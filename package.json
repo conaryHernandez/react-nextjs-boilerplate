@@ -1,0 +1,26 @@
+{
+  "name": "react-nextjs-boilerplate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/conaryHernandez/react-nextjs-boilerplate.git"
+  },
+  "author": "Conary Hernandez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/conaryHernandez/react-nextjs-boilerplate/issues"
+  },
+  "homepage": "https://github.com/conaryHernandez/react-nextjs-boilerplate#readme",
+  "dependencies": {
+    "next": "^9.1.4",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  }
+}
